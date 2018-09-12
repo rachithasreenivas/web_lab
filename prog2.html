@@ -1,0 +1,38 @@
+<html>
+<head>
+<style>
+table { border-collapse: collapse;
+background-color: beige;
+text-align: center;
+padding:10px;
+}
+th{
+	background-color:	red;
+}
+td,tr{
+
+	
+	color: #33;
+	font-family:Helvetica,Arial,sans-serif;
+	width: 640px;
+	border: 3px solid black;
+   
+   border-spacing: 0;
+	}
+	tr:hover
+	{
+	background-color: orange;
+	}
+</style>
+</head>
+<body>
+<script>
+document.write("<center ><table><tr><th>Number</th><th>square</th><th>cube</th>");
+for(var n=0;n<=10;n++)
+{
+document.write("<tr><td>"+n+"</td><td>"+n*n+"</td><td>"+n*n*n+"</td></tr>");
+}
+document.write("</table></center>")
+</script>
+</body>
+</html>
