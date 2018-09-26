@@ -1,0 +1,30 @@
+students{
+	background-color:orange;
+	display: center;
+
+}
+name{
+	color: red;
+	font-family: helvatica;
+	display: block;
+}
+usn{
+	color:cyan;
+	font-family:san-serif;
+	display:block;
+}
+age{
+	color:yellow;
+	font-family:san-serif;
+	display:block;
+}
+branch{
+	color:brown;
+	font-family:san-serif;
+	display:block;
+}
+college{
+	color:black;
+	font-family:san-serif;
+	display:block;
+}

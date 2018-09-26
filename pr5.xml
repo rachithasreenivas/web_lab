@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prog5.css" ?>
+<students>
+<student>
+<name>NAME:	RACHITHA	</name>
+<usn>USN: 4VV15CS092</usn>
+<age>AGE: 21</age>
+<branch>BRANCH: CS</branch>
+<college>COLLEGE: VVCE</college>
+</student>
+<student>
+<name>NAME:	SHRUTHI</name>
+<usn>USN: 4VV15CS103</usn>
+<age>AGE: 21</age>
+<branch>BRANCH: CS</branch>
+<college>COLLEGE: VVCE</college>
+</student>
+<student>
+<name>NAME:	RAKSHITHA	</name>
+<usn>USN: 4VV15CS087</usn>
+<age>AGE: 21</age>
+<branch>BRANCH: CS</branch>
+<college>COLLEGE: VVCE</college>
+</student>
+</students>
